@@ -13,11 +13,10 @@ you're all set. No messing under the hood.
 ## Fast, Free, and Magical (thanks to [Cloudflare](https://cloudflare.com) and [GitHub](https://github.com))
 
 We connect your username to your code. You're the designer.  
-[Build a built.at repo](https://github.com/new?template_name=built.at&template_owner=builtat&name=built.at)
+[Clone this repo to get started](https://github.com/new?template_name=built.at&template_owner=builtat&name=built.at)
 
 ## Look Before You Leap
-
-Repo template: [github.com/builtat/built.at](https://github.com/builtat/built.at)  
+ 
 Example profile: [built.at/AIdidTHIS](https://built.at/aididthis)
 
 ## Contact
