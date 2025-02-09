@@ -23,4 +23,4 @@ Example profile: [built.at/AIdidTHIS](https://built.at/aididthis)
 
 hello [at] built.at
 
-[built.at] (https://built.at) 
+[built.at](https://built.at) 
