@@ -12,6 +12,14 @@
 
 After the `built.at` repo is added enable GitHub Pages on the main branch. [Follow steps 6-9 to enable](https://docs.github.com/en/pages/quickstart#creating-your-website).
 
+- In your new **built.at** repository, click  **Settings**. If you cannot see the "Settings" tab, select the  dropdown menu, then click Settings.
+
+- In the "Code and automation" section of the sidebar, click **Pages**.
+
+- Under "Build and deployment", under "Source", select **Deploy from a branch**.
+
+- Under "Build and deployment", under "Branch", use the branch dropdown menu and select **main**.
+
 `built.at/your-github-username/repo` works for **ANY REPO** if GitHub Pages is enabled.
 
 ## Share anything  
