@@ -1,26 +1,31 @@
 # Built.at
 
-### Built.at → GitHub → Website — in 3 minutes
+## built.at/you + GitHub = free custom website  
 
-Create a `built.at` GitHub repository to display a live website at `built.at/your-github-username`.  
-GitHub Pages must be enabled.
+![Person Icon](https://fonts.googleapis.com/css2?family=Material+Icons)  
+**Need a GitHub account?** [Sign Up First](https://github.com/join)  
 
-## Share What You Want
+## ⏳ 3 minutes to launch  
 
-Portfolio? Blog? Digital playground? If your repo has an `index.html`,  
-you're all set. No messing under the hood.
+You will create a `built.at` GitHub repository to display a live website at `built.at/your-github-username`.  
+You must enable GitHub Pages on the main branch.  
 
-## Fast, Free, and Magical (thanks to [Cloudflare](https://cloudflare.com) and [GitHub](https://github.com))
+After creating the built.at repo ([see button below](https://github.com/new?template_name=built.at&template_owner=builtat&name=built.at)),  
+[Follow steps 6-9](https://docs.github.com/en/pages/quickstart).  
 
-We connect your username to your code. You're the designer.  
-[Clone this repo to get started](https://github.com/new?template_name=built.at&template_owner=builtat&name=built.at)
+## Share anything  
 
-## Look Before You Leap
- 
-Example profile: [built.at/AIdidTHIS](https://built.at/aididthis)
+Landing page, portfolio, blog, notes, links - with `index.html` as your source.  
 
-## Contact
+### **Fast, Free, and Magical**  
+Thanks to [Cloudflare](https://cloudflare.com) and [GitHub](https://github.com).  
 
-hello [at] built.at
+## 🚀 [CREATE BUILT.AT REPO](https://github.com/new?template_name=built.at&template_owner=builtat&name=built.at)  
 
-[built.at](https://built.at) 
+**Repo template:**  
+[github.com/builtat/built.at](https://github.com/builtat/built.at)  
+
+Alternatively, it works to manually create a new repo called 'built.at' but it's more efficient to clone it with the link above.  
+
+## 📩 Send a message  
+hello [at] built.at  
