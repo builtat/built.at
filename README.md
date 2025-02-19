@@ -18,6 +18,8 @@ After the `built.at` repo is added enable GitHub Pages on the main branch.
 <details>
   <summary>Follow these steps</summary>
   
+  ### If you're signed in to GitHub, go to **Settings / Pages** quicker by [clicking here](https://builtat.github.io/misc/setpage.html)
+  
 - In your new **built.at** repository, click  **Settings**. If you cannot see the "Settings" tab, select the  dropdown menu, then click Settings.
 
 - In the sidebar, click **Pages**.
