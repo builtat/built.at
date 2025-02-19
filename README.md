@@ -10,6 +10,11 @@
 
 [![Clone This Repo](https://img.shields.io/badge/Clone%20This%20Repo-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/new?template_name=built.at&template_owner=builtat&name=built.at)
 
+Raw link:
+```
+https://github.com/new?template_name=built.at&template_owner=builtat&name=built.at
+```
+
 After the `built.at` repo is added enable GitHub Pages on the main branch.
 
 ## You Must Enable GitHub Pages
@@ -49,11 +54,6 @@ This repo: [github.com/builtat/built.at](https://github.com/builtat/built.at)
 Initial page before replacing code: [built.at/builtat](https://built.at/builtat)
 
 It works to manually create a new repo called 'built.at' but it's more efficient to clone it with the link above. 
-
-Raw link to clone this repo:
-```
-https://github.com/new?template_name=built.at&template_owner=builtat&name=built.at
-```
 
 ## Send a message  
 hello [at] built.at  
