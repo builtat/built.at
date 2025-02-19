@@ -1,9 +1,9 @@
 # Built.at
 
-### Built.at → GitHub → Website — in seconds
+### Built.at → GitHub → Website — in 3 minutes
 
 Create a `built.at` GitHub repository to display a live website at `built.at/your-github-username`.  
-Works with or without GitHub Pages.
+GitHub Pages must be enabled.
 
 ## Share What You Want
 
