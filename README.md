@@ -10,17 +10,26 @@
 
 [![Clone This Repo](https://img.shields.io/badge/Clone%20This%20Repo-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/new?template_name=built.at&template_owner=builtat&name=built.at)
 
-After the `built.at` repo is added enable GitHub Pages on the main branch. [Follow steps 6-9 to enable](https://docs.github.com/en/pages/quickstart#creating-your-website).
+After the `built.at` repo is added enable GitHub Pages on the main branch.
 
-- In your new **built.at** repository, click  **Settings**. If you cannot see the "Settings" tab, select the  dropdown menu, then click Settings.
-
-- In the "Code and automation" section of the sidebar, click **Pages**.
-
-- Under "Build and deployment", under "Source", select **Deploy from a branch**.
-
-- Under "Build and deployment", under "Branch", use the branch dropdown menu and select **main**.
 
 `built.at/your-github-username/repo` works for **ANY REPO** if GitHub Pages is enabled.
+
+<details>
+  <summary>Follow these steps</summary>
+  
+- In your new **built.at** repository, click  **Settings**. If you cannot see the "Settings" tab, select the  dropdown menu, then click Settings.
+
+- In the sidebar, click **Pages**.
+
+- Under "Build and deployment", under "Source" **Deploy from a branch** should be selected.
+
+- Under "Branch", **main** should be selected.
+
+Reference: [GitHub Docs Quickstart #Creating-Your-Website  - Steps 6-9](https://docs.github.com/en/pages/quickstart#creating-your-website)
+
+</details>
+
 
 ## Share anything  
 
