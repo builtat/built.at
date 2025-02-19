@@ -10,7 +10,7 @@
 
 [![Clone This Repo](https://img.shields.io/badge/Clone%20This%20Repo-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/new?template_name=built.at&template_owner=builtat&name=built.at)
 
-After the `built.at` repo is added enable GitHub Pages on the main branch. [Follow steps 6-9 to enable](https://docs.github.com/en/pages/quickstart).
+After the `built.at` repo is added enable GitHub Pages on the main branch. [Follow steps 6-9 to enable](https://docs.github.com/en/pages/quickstart#creating-your-website).
 
 `built.at/your-github-username/repo` works for **ANY REPO** if GitHub Pages is enabled.
 
