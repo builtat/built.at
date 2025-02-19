@@ -42,7 +42,7 @@ Thanks to [Cloudflare](https://cloudflare.com) and [GitHub](https://github.com).
 
 This template repo: [github.com/builtat/built.at](https://github.com/builtat/built.at)
 
-Example: [built.at/builtat](https://built.at/builtat)
+Start page: [built.at/builtat](https://built.at/builtat)
 
 It works to manually create a new repo called 'built.at' but it's more efficient to clone it with the link above. 
 
