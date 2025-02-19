@@ -24,7 +24,7 @@ Thanks to [Cloudflare](https://cloudflare.com) and [GitHub](https://github.com).
 
 It works to manually create a new repo called 'built.at' but it's more efficient to clone it with the link above. 
 
-Here is the raw link:
+Raw link to clone this repo:
 ```
 https://github.com/new?template_name=built.at&template_owner=builtat&name=built.at
 ```
