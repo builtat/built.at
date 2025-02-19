@@ -14,7 +14,7 @@ After the `built.at` repo is added enable GitHub Pages on the main branch.
 
 ## You Must Enable GitHub Pages
 
-`built.at/your-github-username/page` works for **ANY BUILT.AT PAGE** `built.at/you/page`.
+`built.at/your-github-username/page` works for **ANY BUILT.AT PAGE** `built.at/you/page`.  
 `repo.built.at/your-github-username` works for **ANY REPO**.
 
 <details>
@@ -30,7 +30,7 @@ After the `built.at` repo is added enable GitHub Pages on the main branch.
 
 - Under "Branch", **main** should be selected.
 
-Reference: [GitHub Docs Quickstart #Creating-Your-Website  - Steps 6-9](https://docs.github.com/en/pages/quickstart#creating-your-website)
+*Reference: [GitHub Docs Quickstart #Creating-Your-Website  - Steps 6-9](https://docs.github.com/en/pages/quickstart#creating-your-website)*
 
 </details>
 
