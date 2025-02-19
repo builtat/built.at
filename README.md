@@ -12,6 +12,8 @@
 
 After the `built.at` repo is added enable GitHub Pages on the main branch. [Follow steps 6-9 to enable](https://docs.github.com/en/pages/quickstart).
 
+`built.at/your-github-username/repo` works for **ANY REPO** if GitHub Pages is enabled.
+
 ## Share anything  
 
 Landing page, portfolio, blog, notes, links - with `index.html`, `index.md`, or `index.txt` as your source.  
@@ -28,7 +30,6 @@ Raw link to clone this repo:
 ```
 https://github.com/new?template_name=built.at&template_owner=builtat&name=built.at
 ```
-
 
 ## Send a message  
 hello [at] built.at  
