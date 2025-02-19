@@ -30,7 +30,7 @@ After the `built.at` repo is added enable GitHub Pages on the main branch.
 
 - Under "Branch", **main** should be selected.
 
-*Reference: [GitHub Docs Quickstart #Creating-Your-Website  - Steps 6-9](https://docs.github.com/en/pages/quickstart#creating-your-website)*
+> *Reference: [GitHub Docs Quickstart #Creating-Your-Website  - Steps 6-9](https://docs.github.com/en/pages/quickstart#creating-your-website)*
 
 </details>
 
