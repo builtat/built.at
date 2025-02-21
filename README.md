@@ -8,7 +8,7 @@
 
 `built.at/your-github-username` redirects to your `built.at` GitHub repository.
 
-[![Clone Repo](https://img.shields.io/badge/Clone%20This%20Repo-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/new?template_name=built.at&template_owner=builtat&name=built.at)
+[![Clone Repo](https://img.shields.io/badge/Clone%20Repo-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/new?template_name=built.at&template_owner=builtat&name=built.at)
 
 Raw url:
 ```
