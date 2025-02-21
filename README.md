@@ -1,6 +1,6 @@
 # Built.at
 
-## **Your free `built.at` shortlink → website in seconds**    
+## Free shortlink → website in seconds**    
 
 `built.at/your-github-username` redirects to your `built.at` GitHub repository.
 
